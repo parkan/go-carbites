@@ -1,4 +1,4 @@
-module github.com/parkan/go-carbites/cmd
+module github.com/alanshaw/go-carbites/cmd
 
 go 1.15
 
